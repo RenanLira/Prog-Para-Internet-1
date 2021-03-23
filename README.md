@@ -8,3 +8,4 @@
 * https://github.com/RenanLira/typescript
 
 ### link video:
+* https://youtu.be/SQUvA-EtIiU
